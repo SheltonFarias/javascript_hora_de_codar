@@ -9,4 +9,4 @@ let criaID = criarId()
 
 console.log(criaID.next().value)
 console.log(criaID.next().value)
-console.log(criaID.next().value)
+console.log(criaID.next().value) 
