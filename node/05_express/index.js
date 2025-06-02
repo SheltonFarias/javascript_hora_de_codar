@@ -13,3 +13,6 @@ app.get('/teste', (req, res) => {
 app.listen(7000, () => {
   console.log('http://localhost:7000 Servidor ON!')
 })
+
+// ṕara executar e usado o comando node index.js
+// porem instalei o nodemon para facilitar pq vai atualizar automaticamente o servidor sendo iniciado com nodemon index.js
